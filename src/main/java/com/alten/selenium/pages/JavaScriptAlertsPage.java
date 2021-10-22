@@ -1,4 +1,4 @@
-package com.alten.selenium1.pages;
+package com.alten.selenium.pages;
 
 import com.relevantcodes.extentreports.ExtentTest;
 import org.openqa.selenium.*;

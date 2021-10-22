@@ -1,7 +1,6 @@
-package com.alten.selenium1.pages;
+package com.alten.selenium.pages;
 
 import com.relevantcodes.extentreports.ExtentTest;
-import com.relevantcodes.extentreports.LogStatus;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

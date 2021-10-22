@@ -1,7 +1,6 @@
-package com.alten.selenium1.pages;
+package com.alten.selenium.pages;
 
 import com.relevantcodes.extentreports.ExtentTest;
-import org.bson.assertions.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.WebDriver;

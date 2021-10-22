@@ -1,4 +1,4 @@
-package com.alten.selenium1;
+package com.alten.selenium;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
@@ -6,7 +6,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import com.alten.selenium1.pages.*;
+import com.alten.selenium.pages.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,7 +16,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class RunTest {
 
-    // Extent Report
     static ExtentTest test;
     static ExtentReports report;
 
