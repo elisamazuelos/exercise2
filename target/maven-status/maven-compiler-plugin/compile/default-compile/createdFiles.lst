@@ -1,0 +1,9 @@
+com\alten\selenium1\pages\DynamicControlsPage.class
+com\alten\selenium1\pages\CheckboxesPage.class
+com\alten\selenium1\pages\DynamicContentPage.class
+com\alten\selenium1\pages\HorizontalSliderPage.class
+com\alten\selenium1\pages\ChallengingDOMPage.class
+com\alten\selenium1\pages\DisappearingElementsPage.class
+com\alten\selenium1\pages\HomePage.class
+com\alten\selenium1\pages\MultipleWindowsPage.class
+com\alten\selenium1\pages\JavaScriptAlertsPage.class

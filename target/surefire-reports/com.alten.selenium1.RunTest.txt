@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.alten.selenium1.RunTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 31.586 s <<< FAILURE! - in com.alten.selenium1.RunTest
+dynamicContentTest  Time elapsed: 2.725 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.alten.selenium1.RunTest.dynamicContentTest(RunTest.java:80)
+
