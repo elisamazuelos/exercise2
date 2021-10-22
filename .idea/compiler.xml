@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="altenExampleSelenium_001" />
-        <module name="Ejercicio 2" />
         <module name="ejercicio2" />
+        <module name="exercise2" />
+        <module name="Ejercicio 2" />
       </profile>
     </annotationProcessing>
   </component>
